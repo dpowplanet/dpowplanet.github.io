@@ -1,20 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to the homepage of the Powell Group!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-
-Welcome to the Powell Research Group!
-======
-
-
-News!
-======
-- Congratulations to Mason McCormack for his Barry Goldwater Fellowship
-- Congratulations to Tommy Chi Ho Lau
-
+We are planetary astrophysicists devoted to exploring exoplanet climates and the birth of planetary systems, from the fundamental evolutionary processes of clouds/ice/dust to the latest observations from space.
