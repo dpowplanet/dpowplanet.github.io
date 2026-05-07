@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-We are planetary astrophysicists devoted to exploring exoplanet climates and the birth of planetary systems, from the fundamental evolutionary processes of clouds/ice/dust to the latest observations from space.
+We are planetary astrophysicists devoted to exploring *exoplanet climates* and the *birth of planetary systems*, from the fundamental evolutionary processes of clouds/ice/dust to the latest observations from space and the ground.
